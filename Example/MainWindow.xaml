@@ -1,0 +1,13 @@
+﻿<Window x:Class="Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="323.134" Width="409.577">
+    <Grid>
+        <Button Content="Open Log" HorizontalAlignment="Left" Margin="34,44,0,0" VerticalAlignment="Top" Width="325" Click="OnOpenLog"/>
+        <Button Content="Add Message" HorizontalAlignment="Left" Margin="284,191,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="OnAddMessage"/>
+        <TextBox Name="_text" HorizontalAlignment="Left" Height="79" Margin="34,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="325"/>
+        <ComboBox Name="_level" HorizontalAlignment="Left" Margin="34,191,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox Name="_tag" HorizontalAlignment="Left" Margin="159,191,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
