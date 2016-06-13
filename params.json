@@ -1,0 +1,6 @@
+{
+  "name": "Easylog",
+  "tagline": "Open Source Wpf Easy Log for .NET/C#",
+  "body": "### Welcome to .NET EasyLog.\r\nThis solution is Open Source which provides fast and easy way to create Real Time logs for your .NET application and store those logs for future investigation. You can use the \"Example\" project in the solution to understand how to use EasyLog.\r\n\r\n### Authors and Contributors\r\nAuthor: @djjosse\r\nPlease fill free to open issues in GitHub.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
